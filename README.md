@@ -1,4 +1,4 @@
-# technicalchallenge
+# web scraping 
 
 Python Selenium Code:
 Write a python selenium code that will extract the top 50 bestseller products(data fields- title, price, ratings) by the department (top 50 books) from amazon.com.
